@@ -1,0 +1,2 @@
+1. Link of the classifier.pt: https://drive.google.com/file/d/1eclRrdIg_ZT8-T2BDHxUR_8gzZKCbLO0/view?usp=drive_link
+2. Link of the bilstm.pt: https://drive.google.com/file/d/1ptx40KoNZa675v5z3CDLbYDg_FC5wtfa/view?usp=drive_link
